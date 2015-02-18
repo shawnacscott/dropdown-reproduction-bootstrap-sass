@@ -11,7 +11,6 @@ gem 'rails', '~> 4.1'
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.3.3'
 gem 'sass-rails', '>= 3.2'
-gem 'sprockets'
 gem 'autoprefixer-rails', '>= 5.0'
 
 # Use Uglifier as compressor for JavaScript assets
